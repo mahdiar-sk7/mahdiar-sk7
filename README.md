@@ -27,13 +27,13 @@ Major: Computer Engineering
 ## 📜 Certifications
 
 <p align="center">
-  <img src="./ACIA.png" width="150"/>
-  <img src="./MTCNA.png" width="150"/>
+  <img src="./ACIA.png" width="100"/>
+  <img src="./MTCNA.png" width="100"/>
   <img src="./MCSE.png" width="150"/>
-  <img src="./CCNA.png" width="150"/>
-  <img src="./NETWORK.png" width="150"/>
-  <img src="./C4.png" width="150"/>
-  <img src="./LPIC1.png" width="150"/>
+  <img src="./CCNA.png" width="100"/>
+  <img src="./NETWORK.png" width="100"/>
+  <img src="./C4.png" width="100"/>
+  <img src="./LPIC1.png" width="100"/>
 </p>
 
 ---
