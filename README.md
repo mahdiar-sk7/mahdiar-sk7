@@ -28,8 +28,8 @@ Major: Computer Engineering
 
 <p align="center">
   <img src="./ACIA.png" width="85"/>
-  <img src="./MTCNA.png" width="120"/>
-  <img src="./MCSE.png" width="150"/>
+  <img src="./MTCNA.png" width="100"/>
+  <img src="./MCSE.png" width="85"/>
   <img src="./CCNA.png" width="85"/>
   <img src="./NETWORK.png" width="85"/>
   <img src="./C4.png" width="85"/>
