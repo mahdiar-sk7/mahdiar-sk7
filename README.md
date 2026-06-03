@@ -27,17 +27,18 @@ Major: Computer Engineering
 ## 📜 Certifications
 
 <p align="center">
-  <img src="ACIA.png" width="150"/>
-  <img src="MTCNA.png" width="150"/>
-  <img src="MTCSE.png" width="150"/>
-  <img src="CCNA.png" width="150"/>
-  <img src="NETWORK.png" width="150"/>
-  <img src="C4.png" width="150"/>
+  <img src="./ACIA.png" width="150"/>
+  <img src="./MTCNA.png" width="150"/>
+  <img src="./MCSE.png" width="150"/>
+  <img src="./CCNA.png" width="150"/>
+  <img src="./NETWORK.png" width="150"/>
+  <img src="./C4.png" width="150"/>
+  <img src="./LPIC1.png" width="150"/>
 </p>
 
 ---
 
 ## 📫 Contact
 
-📧 Email: your-email@example.com  
-📱 Telegram: @yourusername  
+📧 Email: mahdiar.sk7@gmail.com  
+📱 Telegram: @mahdiar_sk7  
