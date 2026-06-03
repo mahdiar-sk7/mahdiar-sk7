@@ -1,7 +1,7 @@
 # 👨‍💻 Hi, I'm a Computer Engineering Student
 
 🎓 Computer Engineering Student at Islamic Azad University, Tehran North Branch  
-💡 Interested in Networking, Systems, and Web Development  
+💡 Interested in Networking, Systems, Iot and Web Development 
 🚀 Always learning and improving my technical skills  
 
 ---
