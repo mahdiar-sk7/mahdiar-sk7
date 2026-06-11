@@ -30,12 +30,11 @@ Major: Computer Engineering
   <img src="./ACIA.png" width="85"/>
   <img src="./MTCNA.png" width="100"/>
   <img src="./MCSE.png" width="85"/>
-  <img src="./CCNA.png" width="85"/>
-  <img src="./NETWORK.png" width="85"/>
-  <img src="./C4.png" width="85"/>
+  <img src="./CCNA T.png" width="85"/>
+  <img src="./np t-Photoroom.png" width="85"/>
+  <img src="./C4 t-Photoroom.png" width="85"/>
   <img src="./LPIC1.png" width="85"/>
 </p>
-
 ---
 
 ## 📫 Contact
