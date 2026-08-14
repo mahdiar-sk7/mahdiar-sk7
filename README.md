@@ -8,7 +8,7 @@
 
 ## 🛠 Skills
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,git,linux,windows,c)
+![Skills](https://skillicons.dev/icons?i=html,css,js,git,linux,windows,c,cpp)
 
 - MikroTik Networking
 - Cisco Networking
